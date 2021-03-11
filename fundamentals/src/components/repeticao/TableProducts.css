@@ -1,0 +1,10 @@
+.table-products {
+    width: 100%;
+}
+
+.table-products .Odd {
+    background-color: #ddd;
+}
+.table-products .Even {
+    background-color: #ccc;
+}
